@@ -286,9 +286,14 @@ local theme = {
   texPartArgTitle = { fg = red },
   texCmdTitle = { fg = green },
   texCmdAuthor = { fg = green },
+  texCmdClass = { fg = altyellow },
   texTitleArg = { fg = red, bold = true },
   texAuthorArg = { fg = red, italic = true },
   texFootnoteArg = { fg = red, italic = true },
+
+  -- vimtex: def
+  texCmdDef = { fg = magenta },
+  texDefArgName = { fg = yellow },
 
   -- vimtex: environments
   texCmdEnv = { fg = green },
@@ -323,7 +328,7 @@ local theme = {
   texTabularChar = { link = 'texSymbol' },
 
   -- vimtex: files
-  texFileArg = { fg = red },
+  texFileArg = { fg = blue },
   texFileOpt = { fg = yellow },
 
   -- vimtex: bib
