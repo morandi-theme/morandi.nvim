@@ -46,7 +46,7 @@ local theme = {
   Italic = { fg = white, italic = true },
   Underlined = { fg = blue, special = blue, underline = true },
 
-  Normal = { fg = blue, bg = black },
+  Normal = { fg = white, bg = black },
   Visual = { bg = magenta },
   VisualNOS = { bg = blue },
   Search = { fg = blue, bg = blue },
