@@ -5,8 +5,8 @@ if vim.g.syntax_on then vim.cmd.syntax 'reset' end
 
 vim.g.colors_name = 'morandi'
 
-local black='#20233c'
-local altblack='#2c2e41'
+local black='#05060a'
+local altblack='#20233c'
 local red='#965455'
 local altred='#a27e7e'
 local green='#7b8b6f'
