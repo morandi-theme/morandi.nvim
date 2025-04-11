@@ -2,6 +2,10 @@
 
 A soft, muted Neovim colorscheme inspired by Morandi tones.
 
+## Screenshot
+
+![morandi](https://github.com/user-attachments/assets/7cb82c44-f8cb-4238-82fc-30fe83d57cf4)
+
 ## Installation
 
 ### lazy.nvim
@@ -27,10 +31,6 @@ You can set it in your `init.lua`:
 ```lua
 vim.cmd.colorscheme("morandi")
 ```
-
-## Screenshot
-
-![morandi](https://user-images.githubusercontent.com/47192580/227752896-569573a9-ad7d-4d6a-9984-2bc7becd50a0.png)
 
 ---
 
